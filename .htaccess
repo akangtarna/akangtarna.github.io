@@ -1,0 +1,6 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^home$ index.html
+RewriteRule ^services$ service-details.html
+RewriteRule ^about$ about.html
+RewriteRule ^contact$ contact.html
